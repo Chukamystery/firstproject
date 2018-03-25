@@ -1,0 +1,65 @@
+$blue: #a3d5d3;
+
+body {
+    background-color: white;  
+}
+h1 {
+  font-size: 50px;
+  font-family: Montserrat;
+  color: #0252ff
+}
+h2 {
+  font-size: 25px;
+  font-family: Montserrat
+}
+h3 {
+  font-size: 15px
+}
+.box {
+    border-style: solid;
+    border-width: 0px;
+    text-align: center;
+  }
+  .lightblue-box {
+    background-color: #2e3033;
+    margin: 70px;
+    padding: 10px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 60px;
+    padding-left: 40px;
+  }
+.white-box{
+  background-color: white;
+    margin: 70px;
+  margin-right: 20px;
+    padding: 10px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+}
+li{
+  font-size: 15px;
+  margin: 10px;
+}
+ul{
+  text-align: center;
+  list-style: inside;
+  color: white;
+}
+h4{
+  color: orange;
+}
+  h5{
+  font-size: 20px;
+  font-family: Arial;
+  color: orange;
+  padding: 30px;
+}
+h6 {
+  font-size: 30px;
+  font-family: Arial;
+  color: white;
+  padding: 35px;
+}
